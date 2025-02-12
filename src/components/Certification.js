@@ -104,9 +104,9 @@ export const Certification = () => {
                                         <p>Ensemble Saint-Marie, Joinville-le-Pont</p>
                                       </div>
                                       <div className="cv-item">
-                                        <span className="cv-date">2019 - 2022</span>
-                                        <h5>Bac STI2D option SIN</h5>
-                                        <p>Lycée Louis Armand, Nogent-sur-Marne</p>
+                                        <span className="cv-date">2020 - 2023</span>
+                                        <h5>Bac PRO MELEC</h5>
+                                        <p>Lycée Maurice Rondeau, Bussy-saint-Georges</p>
                                       </div>
                                     </div>
                                     <div className="cv-section">
@@ -136,6 +136,10 @@ export const Certification = () => {
                                         <div className="skill-item">
                                           <span className="skill-label">PHP</span>
                                           <div className="skill-level" style={{width: '20%'}}></div>
+                                        </div>
+                                        <div className="skill-item">
+                                          <span className="skill-label">C#</span>
+                                          <div className="skill-level" style={{width: '25%'}}></div>
                                         </div>
                                         <div className="skill-item">
                                           <span className="skill-label">Python</span>
