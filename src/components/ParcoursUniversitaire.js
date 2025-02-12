@@ -57,7 +57,7 @@ export const ParcoursUniversitaire = () => {
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                 <h1>{`Page`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Parcours Universitaire" ]'><span className="wrap">{text}</span></span></h1>
                 <p>
-                Cette page présente mon parcours professionnel en BTS SIO développement informatique, divisé en deux parties : stage de première année : application des connaissances théoriques, stage de deuxième année : approfondissement des compétences techniques. Chaque section détaille les missions, outils, technologies et compétences acquises durant ces expériences.
+                  Cette page présente mon parcours universitaire en BTS SIO développement informatique à travers deux sections principales : les TP réalisés pendant les deux années (incluant des travaux sur GitHub et Kali Linux), ainsi que mes veilles technologiques et cybersécurité (portant sur Unreal Engine et le piratage de jeux vidéo). Chaque section propose des documents détaillés et des présentations qui illustrent les connaissances acquises durant ma formation.
                 </p>
               </div>}
             </TrackVisibility>

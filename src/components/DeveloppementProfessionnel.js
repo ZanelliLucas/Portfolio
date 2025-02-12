@@ -57,7 +57,7 @@ export const DeveloppementProfessionnel = () => {
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                 <h1>{`Page`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Developpement Professionnel" ]'><span className="wrap">{text}</span></span></h1>
                 <p>
-                Cette page présente mon parcours professionnel en BTS SIO développement informatique, divisé en deux parties : stage de première année : application des connaissances théoriques, stage de deuxième année : approfondissement des compétences techniques. Chaque section détaille les missions, outils, technologies et compétences acquises durant ces expériences.
+                  Cette page présente mon développement professionnel à travers deux sections principales : mon CV détaillé qui résume mon parcours et mes compétences, ainsi que mes certifications obtenues au cours de ma formation. J'ai notamment obtenu la certification PIX pendant mon lycée, et complété plusieurs certifications sur OpenClassroom. Ces documents attestent de mon engagement dans la formation continue et de mon évolution professionnelle.
                 </p>
               </div>}
             </TrackVisibility>

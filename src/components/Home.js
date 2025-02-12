@@ -11,7 +11,7 @@ export const Home = () => {
   const [text, setText] = useState('');
   const [delta, setDelta] = useState(300 - Math.random() * 100);
   const [index, setIndex] = useState(1);
-  const toRotate = ["Programmeur"];
+  const toRotate = ["Développeur web"];
   const period = 2000;
 
   useEffect(() => {
@@ -59,7 +59,7 @@ export const Home = () => {
                 <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                   <span className="tagline">Bienvenue sur mon portfolio</span>
                   <h1>{`Bonjour je suis Lucas`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Programmeur" ]'><span className="wrap">{text}</span></span></h1>
-                  <p> Bonjour, je m'appelle ZANELLI Lucas, j'ai 19 ans et je suis passionné par tout ce qui touche au numérique et au jeu vidéo.
+                  <p> Bonjour, je m'appelle ZANELLI Lucas, j'ai 19 ans et je suis passionné par tout ce qui touche au numérique et aux jeux vidéo.
                       Je suis en deuxième année de BTS SIO (Services Informatiques aux Organisations) Option SLAM (Solutions Logicielles et Applications Métiers) au pôle BTS de l'ensemble Saint-Marie de Joinville-le-Pont.
                       Ma principale motivation pour le choix de la section SIO est d'apprendre les bases du codage avant de m'orienter vers le codage de jeux vidéo.
                   </p>

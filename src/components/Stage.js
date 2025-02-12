@@ -34,7 +34,7 @@ export const Stage = () => {
                        <Col>
                          <img src={logoUUDS} alt="logo UUDS Aéro" style={{ width: '200px', margin: '20px auto', display: 'block' }}/>
                          <p className="option-description">
-                          Pour mon premier stage, j'ai choisi d'aller dans la société UUDS Aéro en tant que développeur web pour une durée de 6 semaines. Pendant ce stage, j'ai pu travailler sur un site interne de l'entreprise qui était de recoder un site web qui était en ruby et de mettre en Symfony.
+                          Pour mon premier stage, j'ai candidaté dans la société UUDS Aéro en tant que développeur web pour une durée de 6 semaines. Pendant ce stage, j'ai pu travailler sur un site interne de l'entreprise qui était de recoder un site web qui était en ruby et de mettre en Symfony.
                          </p>
                          <div className="button-container">
                            <a href={TableauSynthese} target="_blank" rel="noopener noreferrer">
@@ -56,7 +56,7 @@ export const Stage = () => {
                        <Col>
                          <img src={logoAgefiph} alt="logo Agefiph" style={{ width: '200px', margin: '20px auto', display: 'block' }}/>
                          <p className="option-description">
-                          Pour mon deuxième stage, j'ai choisi d'aller dans l'association Agefiph en tant que développeur web pour durée de 6 semaines du 12 novembre 2024 au 20 décembre 2024. Pendant ce stage, j'ai pu travailler sur la vérification des 240 règles Opquast sur le site principal et aussi en parrallèle sur la refonte du site principal, j'ai donc du créer une page de maintenance en HTML et en CSS.
+                          Pour mon deuxième stage, j'ai eu la chance d'être séléctionné pour faire mon stage dans l'association Agefiph en tant que développeur web pour une durée de 6 semaines du 12 novembre 2024 au 20 décembre 2024. Pendant ce stage, j'ai pu travailler sur la vérification des 240 règles Opquast sur le site principal et aussi en parrallèle sur la refonte du site principal, j'ai donc du créer une page de maintenance en HTML et en CSS.
                          </p>
                          <div className="button-container">
                            <a href={TableauSynthese} target="_blank" rel="noopener noreferrer">

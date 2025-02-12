@@ -36,7 +36,7 @@ export const Projects = () => {
               {({ isVisible }) =>
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                 <h2>Projects</h2>
-                <p>Durant les 2 années de BTS SIO nous avons fait plusieurs projets voici la totalite des projets.</p>
+                <p>Durant les 2 années de BTS SIO nous avons fait plusieurs projets. En voici la totalité.</p>
                 <Tab.Container id="projects-tabs" defaultActiveKey="first">
                   <Nav variant="pills" className="nav-pills mb-5 justify-content-center align-items-center" id="pills-tab">
                     {projects.map((project, index) => (

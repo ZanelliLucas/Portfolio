@@ -64,7 +64,7 @@ export const Formation = () => {
                 <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                   <h1>{`Page`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Formation" ]'><span className="wrap">{text}</span></span></h1>
                   <p>
-                  Sur cette page Formation, vous trouverez des informations sur les options SLAM (Solutions logicielles et applications métiers) et SISR (Solutions d'infrastructure, systèmes et réseaux), ainsi que sur les parcours POST-BTS pour approfondir vos compétences. Découvrez également les métiers possibles après ces formations, avec un aperçu des carrières accessibles dans ces secteurs en pleine expansion.
+                  Sur cette page Formation, vous trouverez des informations sur les options SLAM (Solutions logicielles et applications métiers) et SISR (Solutions d'infrastructure, systèmes et réseaux), ainsi que sur les parcours POST-BTS pour approfondir vos compétences. Découvrez également les métiers possibles après ces formations, avec un aperçu des carrières accessibles dans ces secteurs en pleines expansions.
                   </p>
                 </div>}
               </TrackVisibility>
