@@ -24,7 +24,7 @@ export const Veilles = () => {
                       <Nav.Link eventKey="first">Veille Technologique</Nav.Link>
                     </Nav.Item>
                     <Nav.Item>
-                      <Nav.Link eventKey="second">Veille Cyberséccurité</Nav.Link>
+                      <Nav.Link eventKey="second">Veille Cybersécurité</Nav.Link>
                     </Nav.Item>
                   </Nav>
                   <Tab.Content id="slideInUp" className={isVisible ? "animate__animated animate__slideInUp" : ""}>
